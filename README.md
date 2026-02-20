@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shubham Kumar Pradhan! 👋
 
-<!--
-**shubhampradhan-art/Shubhampradhan-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I am a Computer Science Final Year Student and an aspiring Machine Learning Enthusiast. I am passionate about Computer Vision, Web Development, and building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+### 🛠️ My Skills
+* **Languages:** Python, JavaScript, C++
+* **AI/ML:** TensorFlow, Keras, OpenCV, Scikit-learn
+* **Web:** HTML, CSS, React
+* **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Project
+**[Multimodal Emotion Recognition System](https://github.com/shubhampradhan-art/Multimodal-Emotion-Recognition-System)**
+*A Deep Learning system that recognizes human emotions through Speech and Facial Expressions in real-time.*
+
+### 📫 Connect with Me
+* **LinkedIn:** [Your LinkedIn Link Here]
+* **Email:** shubhampradhan8306@gmail.com
+*
