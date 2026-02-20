@@ -14,6 +14,6 @@ I am a Computer Science Final Year Student and an aspiring Machine Learning Enth
 *A Deep Learning system that recognizes human emotions through Speech and Facial Expressions in real-time.*
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn Link Here]
+* **LinkedIn:** [https://www.linkedin.com/in/shubham-kumar-pradhan-574151374]
 * **Email:** shubhampradhan8306@gmail.com
 *
